@@ -1,0 +1,5 @@
+git clone : to clone a git repository onto our local machine.
+git status : to check current status of your git repository.
+git add : to stage the changes at your local machine on to the git repository in your local machine itself.
+git commit : to commit changes made to your local git repository.
+git push : to push changes from local machine to the repository on the git server.
